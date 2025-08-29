@@ -1,0 +1,17 @@
+# Core Python libraries
+pandas==2.2.2        # Data handling
+numpy==1.26.4        # Numerical computing
+
+# Visualization
+matplotlib==3.9.0    # For plots and charts
+seaborn==0.13.2      # High-level visualization (EDA)
+
+# Machine Learning
+scikit-learn==1.5.1  # For TF-IDF, OneHotEncoder, GridSearchCV, train/test split, models
+joblib==1.4.2        # For saving/loading trained models
+
+# Deployment
+streamlit==1.38.0    # Web app for deployment
+
+nltk==3.8.1          # For stopwords, tokenization (extra text preprocessing if needed)
+wordcloud==1.9.3     # Nice word clouds in EDA
