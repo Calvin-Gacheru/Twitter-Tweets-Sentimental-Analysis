@@ -1,5 +1,4 @@
-# PRODIGY_DS_04
-Twitter Entity Sentiment Analysis.
+# Twitter Entity Sentiment Analysis.
 
 This project analyzes X, formerly known as Twitter, posts to detect sentiment (Positive, Negative, Neutral) towards specific entities mentioned in the tweets. The goal is to understand public opinion patterns and deploy machine learning model for real-time predictions.
 
